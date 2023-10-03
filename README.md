@@ -19,5 +19,5 @@ il faut installer une base de donnée
 moi j'ai utilisé mysql pour mon projet 
 
 Une fois installer et copier le projet vous pouvez taper la commande
-*cd gartage_parrot
+*cd garage_parrot
 *symfony start:server -d
